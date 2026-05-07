@@ -1,7 +1,7 @@
 # Marketing Analytics with Python
 An end-to-end marketing analytics project analysing Meta Ads 
 campaign performance and customer behaviour using Python.
-Progressing from intermediate to professional level.
+
 
 ---
 
