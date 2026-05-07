@@ -99,8 +99,7 @@ Visually confirms where budget should go immediately.
 
 **Chart 2 — Spend vs Revenue**
 Retargeting spent the least but generated the highest revenue.
-Brand Awareness spend and revenue bars are almost equal —
-barely breaking even on direct returns.
+
 
 **Chart 3 — Weekly ROAS Trend**
 Retargeting stays consistently flat at 15-16x across all 4 weeks —
