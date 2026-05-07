@@ -1,0 +1,16 @@
+customer_id,campaign_name,channel,age,gender,location,customer_type,purchase_value,purchase_date
+C001,Summer Sale - Video,Meta,28,Female,Nairobi,New,4200,7/1/2024
+C002,Retargeting - Dynamic,Meta,35,Male,Mombasa,Returning,8900,7/1/2024
+C003,Summer Sale - Carousel,Meta,24,Female,Kisumu,New,2400,7/1/2024
+C004,Brand Awareness - Video,Meta,42,Male,Nairobi,New,350,7/1/2024
+C005,Retargeting - Dynamic,Meta,31,Female,Nakuru,Returning,9200,14/01/2024
+C006,Summer Sale - Video,Meta,27,Male,Nairobi,New,4100,14/01/2024
+C007,Summer Sale - Carousel,Meta,33,Female,Mombasa,Returning,2700,14/01/2024
+C008,Retargeting - Dynamic,Meta,29,Male,Kisumu,Returning,9800,21/01/2024
+C009,Summer Sale - Video,Meta,45,Female,Nairobi,New,5200,21/01/2024
+C010,Brand Awareness - Video,Meta,38,Male,Nakuru,New,280,21/01/2024
+C011,Retargeting - Dynamic,Meta,26,Female,Nairobi,Returning,9100,28/01/2024
+C012,Summer Sale - Video,Meta,31,Male,Mombasa,New,4900,28/01/2024
+C013,Summer Sale - Carousel,Meta,22,Female,Kisumu,New,2600,28/01/2024
+C014,Retargeting - Dynamic,Meta,34,Male,Nairobi,Returning,9500,28/01/2024
+C015,Brand Awareness - Video,Meta,41,Female,Nakuru,New,420,28/01/2024
