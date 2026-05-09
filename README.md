@@ -142,11 +142,32 @@ Nakuru is the weakest market at $3,300 average.
 
 ---
 
-## Modules Completed
+## Module 4 — Customer Segmentation
+
+### What Was Done
+- Calculated RFM scores — Recency, Frequency and Monetary value
+- Assigned customers into 4 segments using RFM Total Score
+- Applied K-Means clustering to validate segments visually
+
+### Segment Results
+| Segment | Customers | Avg Recency | Avg Spend |
+|---|---|---|---|
+| Champions | 5 | 5.4 days | $7,180 |
+| Loyal Customers | 3 | 11 days | $4,940 |
+| At Risk | 4 | 25 days | $3,963 |
+| Potential Loyalists | 3 | 15.7 days | $2,360 |
+
+### Marketing Strategies by Segment
+1. **Champions** — reward with exclusive offers and loyalty perks
+2. **Loyal Customers** — upsell and cross-sell to move them to Champions
+3. **At Risk** — launch win-back campaign immediately with discounts
+4. **Potential Loyalists** — nurture with mid-tier offers to increase spend
+
+### Modules Completed
 - [x] Module 1 — Pandas for campaign data
 - [x] Module 2 — Data wrangling & CRM merge
 - [x] Module 3 — Exploratory data analysis & visualisation
-- [ ] Module 4 — Customer segmentation
+- [x] Module 4 — Customer segmentation — RFM & K-Means
 - [ ] Module 5 — Attribution & funnel analysis
 - [ ] Module 6 — A/B testing
 - [ ] Module 7 — Automated reporting
